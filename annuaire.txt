@@ -1,0 +1,4 @@
+cooper:sheldon:2 rue toulon:71600:paris
+pourouch:srivatsa:12 rue:91600:savigny
+Dupond:toto:rue de la gare:71014:paris
+pourouch:srivatsa:12 rue:71000:savigny
